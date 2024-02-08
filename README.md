@@ -36,7 +36,7 @@ This is a simple implementation of the classic Snake game using the Turtle graph
 
    ```bash
    git clone https://github.com/demirezenmert/snakegame.git
-   cd snake_game
+   cd snakegame
    ```
 
 2. Run the game:
